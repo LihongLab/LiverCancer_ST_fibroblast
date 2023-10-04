@@ -5,7 +5,7 @@ Understanding the role of fibroblasts in the tumor microenvironment (TME) of hum
 ## Usage
 This code was developed in R version (4.1.3) for statistical analyses of spatial transcriptomics data and proteomics data. The detail infomation can refer to Supplementary Methods.
 
-Quantitative data for the **proteome** can be obtained from /TME_fibroblast/proteome/DATA_all_sample.xls
+Quantitative data for the **proteome** can be obtained from /proteome/DATA_all_sample.xls
 
 Raw **spatial transcriptomics** data can be obtained from the paper and/or the Supplementary Materials.
 
