@@ -15,6 +15,6 @@ If you use code or data in this project, please cite:
 - Siyu, J. 2023. "Spatial multiomics analysis reveals a subpopulation of fibroblasts associated with immunosuppression and cancer stemness in human liver cancer". 
 
 ## Maintainers
-[@jessiya](https://github.com/jessiya825)
+[@jessiya](https://github.com/jessiya825),[@whq](https://github.com/wheat-whq), [@XiYan](https://github.com/Xicici-Yan)
 
-We also thank Heqi Wang and Xi Yan for their contribution.
+We also thank Xufeng Chen, Ping Lin for their contribution.
